@@ -114,3 +114,6 @@ elif pontos > 950:
     print(f"Pontuação alta, Você tirou {pontos} pontos do maximo de 1350, acertando {pontuacao} questões")
 elif pontos <= 300:
     print(f"Pontuação muito abaixo da media, Você tirou {pontos} pontos do maximo de 1350, acertando {pontuacao} questões")
+
+
+print("Pedro Maia")
